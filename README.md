@@ -62,6 +62,10 @@ docs/
 
 These scripts assume a Snowflake account with the Lightcast Core LMI marketplace share
 installed and a warehouse/database named `CHEETAH_WH` / `CHEETAH_DB` (rename as needed).
+
+> **Data:** The Lightcast dataset comes from the Snowflake Marketplace.
+> No source data is included in this repository.
+
 Run the files in order in a Snowflake worksheet:
 
 ```
